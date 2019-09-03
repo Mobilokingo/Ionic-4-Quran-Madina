@@ -3,12 +3,16 @@
 # Ionic-4-Quran-Madina
 
 
-iomic 4 sample with side menu
+ionic 4 sample with side menu
 
 Holy Quran Madina pages
 
 
 download from google play or f-droid
+
+https://play.google.com/store/apps/details?id=com.baowtech.ionic.quran
+
+
 
 for development use the following commands:
 
