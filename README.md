@@ -12,7 +12,7 @@ download from google play or f-droid
 
 for development use the following commands:
 
-ionic server
+ionic serve
 
 or 
 ionic serve --labs
