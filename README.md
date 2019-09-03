@@ -36,3 +36,7 @@ enjoy :)
 
 ![Alt text](https://raw.githubusercontent.com/Mobilokingo/Ionic-4-Quran-Madina/master/sample_images/s0.png)
 
+![Alt text](https://raw.githubusercontent.com/Mobilokingo/Ionic-4-Quran-Madina/master/sample_images/s1.png)
+
+![Alt text](https://raw.githubusercontent.com/Mobilokingo/Ionic-4-Quran-Madina/master/sample_images/s2.png)
+
