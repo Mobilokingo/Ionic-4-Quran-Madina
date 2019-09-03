@@ -31,3 +31,8 @@ npm install npm –g
 feel free to modify and enhance the code
 
 enjoy :)
+
+# Ionic-4-Quran-Madina Sample Images
+
+![Alt text](https://raw.githubusercontent.com/Mobilokingo/Ionic-4-Quran-Madina/master/sample_images/s0.png)
+
