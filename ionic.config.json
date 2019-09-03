@@ -1,0 +1,7 @@
+{
+  "name": "QuranMadina",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

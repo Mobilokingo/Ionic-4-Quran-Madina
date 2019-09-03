@@ -1,0 +1,2 @@
+git remote add origin git@github.com/Mobilokingo/Ionic-4-Quran-Madina
+
